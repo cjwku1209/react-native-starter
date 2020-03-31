@@ -44,7 +44,7 @@ Run on iOS.
 
 ### Contributing
 
-- Calvin Ku [@pkcwong](https://github.com/cjwku1209)
+- Calvin Ku [@cjwku1209](https://github.com/cjwku1209)
 
 ### Special Thanks
 
