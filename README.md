@@ -21,7 +21,7 @@ Follow React Native CLI Quickstart for your OS
 Clone this repository.
 
 ```Bash
-    git https://github.com/cjwku1209/react-native-starter.git
+    git clone https://github.com/cjwku1209/react-native-starter.git
     cd react-native-starter
 ```
 
