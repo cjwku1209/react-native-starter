@@ -31,11 +31,19 @@ Run on Android.
     yarn react-native run-android
 ```
 
+Initially to run iOS.
+
+```Bash
+    cd ios/
+    pod install
+```
+
 Run on iOS.
 
 ```Bash
     yarn react-native run-ios
 ```
+
 
 ### Resource
 
